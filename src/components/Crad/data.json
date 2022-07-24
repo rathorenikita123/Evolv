@@ -1,0 +1,131 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "image": "/images/profile.jpg",
+            "name": "Leanne Graham",
+            "email": "leanneg@gmail.com",
+            "steps": [
+                {
+                    "target": 4000,
+                    "walked": 567
+                }
+            ],
+            "date": [
+                {
+                    "perfoemedDate": "15 Oct",
+                    "scheduleDate": "22 Oct"
+                }
+            ],
+            "calories": [
+                {
+                    "caloriesIntake": "2547",
+                    "caloriesTarget": "2.5K"
+                }
+            ],
+            "protein": [
+                {
+                    "proteinIntake": 40,
+                    "proteinTarget": 70
+                }
+            ],
+            "carbs": [
+                {
+                    "carbsIntake": 20,
+                    "carbsTarget": 70
+                }
+            ],
+            "fat": [
+                {
+                    "fatIntake": 50,
+                    "fatTarget": 70
+                }
+            ]
+        },
+        {
+            "id": 2,
+
+            "image": "/images/profile.jpg",
+            "name": "Ervin Howell",
+            "email": "howelle@gmail.com",
+            "steps": [
+                {
+                    "target": 4000,
+                    "walked": 2567
+                }
+            ],
+            "date": [
+                {
+                    "perfoemedDate": "15 Oct",
+                    "scheduleDate": "22 Oct"
+                }
+            ],
+            "calories": [
+                {
+                    "caloriesIntake": "2547",
+                    "caloriesTarget": "2.5K"
+                }
+            ],
+            "protein": [
+                {
+                    "proteinIntake": 40,
+                    "proteinTarget": 70
+                }
+            ],
+            "carbs": [
+                {
+                    "carbsIntake": 40,
+                    "carbsTarget": 70
+                }
+            ],
+            "fat": [
+                {
+                    "fatIntake": 50,
+                    "fatTarget": 70
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "image": "/images/profile.jpg",
+            "name": "Clemen Bauch",
+            "email": "clemen@gmail.com",
+            "steps": [
+                {
+                    "target": 4000,
+                    "walked": 3050
+                }
+            ],
+            "date": [
+                {
+                    "perfoemedDate": "15 Oct",
+                    "scheduleDate": "22 Oct"
+                }
+            ],
+            "calories": [
+                {
+                    "caloriesIntake": "2547",
+                    "caloriesTarget": "2.5K"
+                }
+            ],
+            "protein": [
+                {
+                    "proteinIntake": 40,
+                    "proteinTarget": 70
+                }
+            ],
+            "carbs": [
+                {
+                    "carbsIntake": 40,
+                    "carbsTarget": 70
+                }
+            ],
+            "fat": [
+                {
+                    "fatIntake": 50,
+                    "fatTarget": 70
+                }
+            ]
+        }
+    ]
+}

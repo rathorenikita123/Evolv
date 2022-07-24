@@ -1,0 +1,56 @@
+.card{
+    background-color: #101317 !important;
+    font-family: 'Montserrat';
+}
+.col{
+    background-color: #1E262F !important;
+    border-radius: 10px;
+}
+
+.text{
+    color: #fff !important;
+    font-size: xxx-large;
+}
+
+.CircularProgressbar-text{
+    fill: #fff !important;
+}
+
+
+.text-legend{
+    display: none;
+}
+
+.card-t{
+    color: #b1aeae;
+}
+
+button{
+    background-color: #000000 !important;
+}
+
+i{
+    color: #ffffff !important;
+    margin-right: 2rem;
+}
+
+.plus{
+    width: 2.5rem !important;
+}
+
+img{
+    border-radius: 50%;
+}
+
+.notification i{
+    color: #000000 !important;
+}
+
+.noti{
+    width: 2.5rem;
+    background-color: aqua !important;
+}
+
+
+
+
